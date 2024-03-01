@@ -10,7 +10,6 @@ return {
   --   end,
   -- },
   -- Lua
-
   {
     'olivercederborg/poimandres.nvim',
     lazy = false,
